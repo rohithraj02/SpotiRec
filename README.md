@@ -1,2 +1,2 @@
 # SpotiRec
-A music recommendation system based on Content-based filtering algorithm
+Check Master Branch for the Project
